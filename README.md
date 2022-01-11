@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Likedin Profile](https://www.linkedin.com/in/sanghyun-kim-69498a192/)
 - 😄 Pronouns: He/Him
 
-### Connect with me!
+### Connect with me:
 <p float="left">&nbsp;
   <a href="https://www.linkedin.com/in/sanghyun-kim-69498a192/" target="_blank">
   <img height="36" width="36" src="https://img.icons8.com/color/2x/linkedin.png" />
