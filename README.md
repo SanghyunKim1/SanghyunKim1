@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 📈 I’m currently majoring in Statistics and Data Science at the University of Sydney 🇦🇺
-- 🧐 I'm particularly interested in: 1️⃣ Analyzing data, 2️⃣ Interepreting data analysis results, and 3️⃣ Predictive analysis
+- 🧐 I'm particularly interested in: 1️⃣ Analyzing data 2️⃣ Interepreting data analysis results 3️⃣ Predictive analysis
 - ⚾️ I’m currently working on MLB analysis projects
 - 🚀 My portfolio: [Moneyball The Beauty of Sabermetrics](https://sanghyunkim1.github.io)
 - 👯 I’m looking to collaborate with other (future) Sabermetricians!
