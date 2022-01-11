@@ -54,7 +54,7 @@ Here are some ideas to get you started:
   <img height="36" width="36" src="https://baseballsavant.mlb.com/site-core/images/savant-logo.svg" />
   </a>&nbsp;&nbsp;
   <a href="http://eng.koreabaseball.com" target="_blank">
-  <img height="36" width="45" src="https://lgcxydabfbch3774324.cdn.ntruss.com/KBO_IMAGE/KBOHome/resources/images/common/h1_logo.png" />
+  <img height="36" width="48" src="https://lgcxydabfbch3774324.cdn.ntruss.com/KBO_IMAGE/KBOHome/resources/images/common/h1_logo.png" />
   </a>&nbsp;&nbsp;
 </p>
 
