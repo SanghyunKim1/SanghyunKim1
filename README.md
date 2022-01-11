@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img height="36" width="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"/>&nbsp;&nbsp;
 </p>
 
-### Interests
+### Baseball
 <p float="left">&nbsp;
   <a href="https://www.mlb.com" target="_blank">
   <img height="36" width="42" src="https://www.mlbstatic.com/team-logos/league-on-dark/1.svg"/>
