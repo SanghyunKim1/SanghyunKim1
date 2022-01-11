@@ -20,10 +20,10 @@ Here are some ideas to get you started:
   <img height="36" width="36" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/sammie__diary/" target="_blank">
-  <img height="42" width="42" src="https://img.icons8.com/color/2x/instagram-new.png" />
+  <img height="36" width="36" src="https://img.icons8.com/color/2x/instagram-new.png" />
   </a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/profile.php?id=100008063165893" target="_blank">
-  <img height="42" width="42" src="https://img.icons8.com/color/2x/facebook-new.png" />
+  <img height="36" width="36" src="https://img.icons8.com/color/2x/facebook-new.png" />
   </a>&nbsp;&nbsp;
 </p>
 
