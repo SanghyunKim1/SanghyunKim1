@@ -7,6 +7,6 @@ Here are some ideas to get you started:
 - ⚾️ I’m currently working on MLB analysis projects
 - 🚀 My portfolio: [Moneyball: The Beauty of Sabermetrics](https://sanghyunkim1.github.io)
 - 👯 I’m looking to collaborate with other (future) Sabermetricians!
-- 💪 I'm aspiring to be a GM in MLB in the future
+- 💪 I'm aspiring to be an MLB GM in the future
 - 📫 How to reach me: [Likedin Profile](https://www.linkedin.com/in/sanghyun-kim-69498a192/)
 - 😄 Pronouns: He/Him
